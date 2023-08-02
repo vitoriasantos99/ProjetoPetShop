@@ -1,8 +1,6 @@
 main{
     background-color: #00CDCD;
 }
-.categoria{
-}
 div.icone{
     display: inline-block;
     width: 350px;
@@ -13,6 +11,13 @@ div.box{
     width: 306px;
     height: 10px;
     display: inline-block;
+}
+#animais{
+    padding: 50px;
+}
+figure{
+    text-align: center;
+    float: left;
 }
 div.produtos{
     width: 350px;
@@ -27,9 +32,6 @@ div.produtos{
 div.card{
     height: 490px;
     background-color: rgb(188, 227, 240);
-}
-p{
-    text-align: center;
 }
 h5{
     text-align: center;
