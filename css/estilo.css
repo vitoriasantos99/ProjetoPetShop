@@ -1,0 +1,42 @@
+main{
+    background-color: #00CDCD;
+}
+.categoria{
+}
+div.icone{
+    display: inline-block;
+    width: 350px;
+    color: white;
+    text-align: right
+}
+div.box{
+    width: 306px;
+    height: 10px;
+    display: inline-block;
+}
+div.produtos{
+    width: 350px;
+    display: inline-block;
+}
+.rodape{
+    text-align: center;
+}
+.descricao{
+    text-align: center;
+}
+div.card{
+    height: 490px;
+    background-color: rgb(188, 227, 240);
+}
+p{
+    text-align: center;
+}
+h5{
+    text-align: center;
+    color: #0069D9;
+}
+.rodape{
+    background-color: #00CDCD;
+    color: white;
+    text-align: center;
+}

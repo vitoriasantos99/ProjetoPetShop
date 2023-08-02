@@ -1,0 +1,27 @@
+.desconto{
+    background-color: rgb(188, 227, 240);
+    height: 501px;
+    color: red;
+    font-size: 40px;
+}
+body{
+    background-color: #00CDCD;
+}
+.btn{
+    width: 60px;
+}
+div.card{
+    text-align: center;
+    height: 615px;
+    background-color: rgb(188, 227, 240);
+}
+.rodape{
+    background-color: rgb(188, 227, 240);
+    color: black;
+}
+a{
+    display: inline-block;
+}
+p{
+    text-align: center;
+}
